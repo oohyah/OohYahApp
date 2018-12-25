@@ -8,6 +8,9 @@ The following desktop platform releases are available:
 - OSX (64bit)
 - Linux (64bit)
 
+The following mobile platform releases are available:
+- Android
+
 # Releases
 
 Releases can be found on [OohYah.com](https://oohyah.com) *at the bottom of the page or in the [releases tab](https://github.com/oohyah/OohYahApp/releases "Download OohYah") here on GitHub.
